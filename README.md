@@ -14,7 +14,7 @@ This project is a JavaScript application that utilizes artificial intelligence t
 - **Frontend:** React.js
 - **Backend:** Node.js with Express
 - **Database:** MongoDB
-- **AI/ML:** TensorFlow.js or similar for AI processing
+- **AI:** OpenRouter Api For efficient result
 - **Deployment:** Heroku or Vercel
 
 ## Installation
@@ -42,10 +42,6 @@ This project is a JavaScript application that utilizes artificial intelligence t
 
 ## API Documentation
 - **POST /api/products**: Add a new product for categorization.
-- **GET /api/products**: Retrieve all products and their categories.
-- **GET /api/products/:id**: Retrieve a specific product by ID.
-- **PUT /api/products/:id**: Update a product's details.
-- **DELETE /api/products/:id**: Delete a product by ID.
 
 ## Project Structure
 ```
@@ -59,23 +55,3 @@ AI_Product_Auto_Category_Generator/
 ├── .env.example               # Example environment variables
 └── README.md                  # Project documentation
 ```
-
-## Contributing Guidelines
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix:
-   ```bash
-   git checkout -b feature/my-feature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/my-feature
-   ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
