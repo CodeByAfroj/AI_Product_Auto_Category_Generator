@@ -3,6 +3,11 @@
 ## Overview
 This project is a JavaScript application that utilizes artificial intelligence to automatically categorize products based on their descriptions and features. This tool aims to simplify product management and enhance user experience by ensuring accurate and relevant categorization.
 
+<img  src="./frontend/src/assets/home.png" width="700" />
+
+
+<img  src="./frontend/src/assets/result.png" width="700"/>
+
 ## Features
 - **AI-Powered Categorization:** Uses machine learning algorithms to categorize products automatically.
 - **Customizable Categories:** Users can define custom categories to suit their needs.
