@@ -2,10 +2,10 @@
 
 ## Overview
 This project is a JavaScript application that utilizes artificial intelligence to automatically categorize products based on their descriptions and features. This tool aims to simplify product management and enhance user experience by ensuring accurate and relevant categorization.
-
+##  Home - Page Before Result 
 <img  src="./frontend/src/assets/home.png" width="700" />
 
-
+## Result - After Ai Response
 <img  src="./frontend/src/assets/result.png" width="700"/>
 
 ## Features
